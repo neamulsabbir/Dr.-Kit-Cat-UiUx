@@ -1,0 +1,37 @@
+.avatar-container {
+  display: flex;
+  margin-left: 56px;
+}
+.avatar {
+  border: 2px solid #FFFFFF;
+  border-radius: 100%;
+  width: 55px;
+  height: 55px;
+}
+.avatar-image {
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+  border-radius: 100%;
+}
+
+.img-avatar1 {
+  position: absolute;
+  left: 851px;
+  top: 477px;
+}
+.img-avatar2 {
+  position: absolute;
+  left: 889.08px;
+  top: 477px;
+}
+.img-avatar3 {
+  position: absolute;
+  left: 927.15px;
+  top: 477px;
+}
+.img-avatar4 {
+  position: absolute;
+  left: 965.23px;
+  top: 477px;
+}

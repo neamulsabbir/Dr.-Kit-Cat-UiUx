@@ -1,0 +1,188 @@
+.facilities-section {
+  background-color: #fffaf5;
+  
+}
+.facilities-container{
+    padding: 0 150px;
+}
+.facilities-title {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 108px;
+}
+.facilities-title h1 {
+  width: 363px;
+  font-weight: 700;
+  font-size: 45px;
+  color: #000958;
+  padding: 0;
+}
+.facilities-title p {
+  width: 577px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #656689;
+  padding: 0;
+}
+.facilities-details {
+  display: flex;
+  margin-top: 89px;
+  padding-bottom: 96px;
+}
+.facilities-cat {
+  width: 417px;
+  height: 656px;
+  border: 5px solid #ffefde;
+  border-radius: 300.5px;
+  margin-left: 111px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.facilities-details img {
+  width: 333px;
+  height: 550px;
+  border-radius: 240.5px;
+}
+.left-circle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: -21px;
+  z-index: 20;
+}
+.left-upper-circle {
+  position: absolute;
+  width: 26px;
+  height: 25px;
+  left: 493px;
+  top: 3241px;
+  background: linear-gradient(
+    145.61deg,
+    rgba(255, 96, 49, 0.6) 15.14%,
+    rgba(249, 168, 14, 0.6) 93.39%
+  );
+  border: 6px solid #ffefde;
+  border-radius: 100%;
+}
+
+.left-bottom-circle {
+  position: absolute;
+  width: 26px;
+  height: 24px;
+  left: 490px;
+  top: 3470px;
+  background: linear-gradient(
+    145.61deg,
+    rgba(255, 96, 49, 0.6) 15.14%,
+    rgba(249, 168, 14, 0.6) 93.39%
+  );
+  border: 6px solid #ffefde;
+  border-radius: 100%;
+}
+.right-circle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: -21px;
+  z-index: 20;
+}
+.right-upper-circle {
+  position: absolute;
+  width: 26px;
+  height: 25px;
+  left: 907px;
+  top: 3241px;
+  background: linear-gradient(
+    145.61deg,
+    rgba(255, 96, 49, 0.6) 15.14%,
+    rgba(249, 168, 14, 0.6) 93.39%
+  );
+  border: 6px solid #ffefde;
+  border-radius: 100%;
+}
+
+.right-bottom-circle {
+  position: absolute;
+  width: 26px;
+  height: 24px;
+  left: 911px;
+  top: 3470px;
+  background: linear-gradient(
+    145.61deg,
+    rgba(255, 96, 49, 0.6) 15.14%,
+    rgba(249, 168, 14, 0.6) 93.39%
+  );
+  border: 6px solid #ffefde;
+  border-radius: 100%;
+}
+.image-area {
+  display: flex;
+}
+.left-upper-border {
+  position: absolute;
+  width: 346px;
+  height: 5px;
+  left: 150px;
+  top: 3256px;
+  background: #ffefde;
+}
+.left-bottom-border {
+  position: absolute;
+  width: 350px;
+  height: 5px;
+  left: 150px;
+  top: 3484px;
+  background: #ffefde;
+}
+.right-upper-border {
+  position: absolute;
+  width: 345px;
+  height: 5px;
+  left: 945px;
+  top: 3256px;
+  background: #ffefde;
+}
+.right-bottom-border {
+  position: absolute;
+  width: 343px;
+  height: 5px;
+  left: 947px;
+  top: 3484px;
+  background: #ffefde;
+}
+.feed p {
+  font-weight: 400;
+  width: 244px;
+  font-size: 16px;
+  line-height: 30px;
+  color: #656689;
+  padding: 0;
+}
+.health {
+  margin: 147px 0;
+}
+.health p {
+  width: 222px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #656689;
+  padding: 0;
+}
+.vaccination p {
+  width: 224px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #656689;
+}
+.facilities-details h4 {
+  font-weight: 700;
+  font-size: 22px;
+  color: #000958;
+}
+.right-text {
+  margin-left: 115px;
+}

@@ -1,0 +1,36 @@
+.circle{
+width: 429px;
+height: 416px;
+border-radius: 100%;
+background: linear-gradient(145.61deg, rgba(255, 96, 49, 0.5) 15.14%, rgba(249, 168, 14, 0.5) 93.39%);
+display: flex;
+margin-left: 146px;
+/* align-items: center; */
+}
+.circle img{
+    width: 534px;
+    height: 509px;
+    margin-top: -92px;
+    margin-left: -43px;
+    border-radius: 100%;
+}
+.dot-icon{
+    display: flex;
+    z-index: 2;
+    margin-left: 146px;
+}
+.green-plus-icon{
+    display: flex;
+    z-index: 2;
+    margin-left: 574.74px;
+}
+.orange-plus-icon{
+    display: flex;
+    z-index: 2;
+    margin-left: 146px;
+}
+.shape-icon{
+    display: flex;
+    z-index: 2;
+    margin-left: 83.73%;
+}

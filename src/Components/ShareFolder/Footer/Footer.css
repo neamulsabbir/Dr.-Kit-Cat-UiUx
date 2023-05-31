@@ -1,0 +1,89 @@
+.footer-section {
+  background-color: #fff4ea;
+}
+.footer-container {
+  display: flex;
+  margin: 0 150px;
+  padding-top: 99px;
+  padding-bottom: 61px;
+}
+.footer-logo h2 {
+  font-weight: 600;
+  font-size: 27px;
+  color: #000000;
+  margin-bottom: 44px;
+}
+.footer-logo h5 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #656689;
+  width: 446px;
+  padding: 0;
+}
+.useful {
+  margin-left: 122px;
+}
+.useful h4 {
+  margin-bottom: 47px;
+  font-weight: 600;
+  font-size: 18px;
+  color: #000958;
+}
+
+.useful p {
+  font-weight: 400;
+  font-size: 14px;
+  color: #656689;
+  line-height: 38px;
+  padding: 0;
+}
+.explore-part {
+  margin-left: 122px;
+}
+.explore-part h4 {
+  margin-bottom: 47px;
+  font-weight: 600;
+  font-size: 18px;
+  color: #000958;
+}
+
+.explore-part p {
+  font-weight: 400;
+  font-size: 14px;
+  color: #656689;
+  line-height: 38px;
+  padding: 0;
+}
+
+.adopt-part {
+  margin-left: 122px;
+}
+.adopt-part h4 {
+  margin-bottom: 47px;
+  font-weight: 600;
+  font-size: 18px;
+  color: #000958;
+}
+
+.adopt-part p {
+  font-weight: 400;
+  font-size: 14px;
+  color: #656689;
+  line-height: 38px;
+  padding: 0;
+}
+.footer-border {
+  width: 1140px;
+  height: 2px;
+  background: #eeddce;
+  margin: 0 150px 0 150px;
+}
+.copyright{
+    font-weight: 400;
+font-size: 16px;
+color: #141414;
+opacity: 0.5;
+padding: 28px 0 29px 0;
+text-align: center;
+}
